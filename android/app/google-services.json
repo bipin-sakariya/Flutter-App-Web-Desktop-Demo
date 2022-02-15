@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292183094461",
+    "project_id": "fir-macos-demo",
+    "storage_bucket": "fir-macos-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292183094461:android:98f97822765c0ce5a433d4",
+        "android_client_info": {
+          "package_name": "com.example.macos.firebase_macos_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292183094461-2as9giksib5gtpvg7kucmhh2o9qfs08c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADE3U_Jd2hTg7NT4gxOZOlmFyCPol2hJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292183094461-2as9giksib5gtpvg7kucmhh2o9qfs08c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
