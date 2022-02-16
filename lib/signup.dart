@@ -1,5 +1,4 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_macos_demo/main.dart';
 import 'package:flutter/material.dart';
 
 class SignUpPage extends StatefulWidget {
